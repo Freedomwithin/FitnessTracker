@@ -12,9 +12,6 @@
 **Responsive design** - Mobile/Desktop
 **Data persistence** - SQLite database
 
-## Screenshots
-![Fitness Tracker Demo](https://via.placeholder.com/800x400/blue/white?text=Fitness+Tracker) *(replace with your screenshot)*
-
 ## Local Setup
 ```bash
 # Backend (Terminal 1)
