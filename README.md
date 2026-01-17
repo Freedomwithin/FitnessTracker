@@ -6,7 +6,7 @@
 
 \## Live Demo
 
-\*\*\[Deployed on Vercel](https://your-app-name.vercel.app)\*\* \*(update after Vercel deploy)\*
+\*\*\[Fitness Tracker](https://fitness-tracker-9p59b0obx-jonathon-koerners-projects.vercel.app)\*\*
 
 
 
